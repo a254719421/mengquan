@@ -12,7 +12,7 @@
 				<string>HTTPS</string>
 				<key>ServerAddresses</key>
 				<array>
-					<string>47.254.142.246</string>
+					<string>192.254.94.82</string>
 				</array>
 				<key>ServerURL</key>
 				<string>https://doh.fanjiayu.com/dns-query</string>
